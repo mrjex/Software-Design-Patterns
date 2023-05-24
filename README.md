@@ -2,7 +2,21 @@
 
 This assignment involed both theoretical and coding challenges, both of which are addressed and reflected upon in `Submission.pdf`. We were given three coding tasks about design patterns, and below are our implementations of these patterns:
 
-## Task 4A - Abstract Factory Design Pattern
+
+- Developed by
+
+- [Asim X]()
+- [Joel Mattsson]()
+- [Mohamad Khalil]()
+- [Ali Mousa]()
+- [Zepei Zhao]()
+- Jackson Niyomugabo
+
+- In 2023 March - May
+
+
+
+## Abstract Factory Design Pattern
 
 ![first-A](readme-pictures/Task%204A%20-%20Abstract%20Factory%20Design%20Pattern/1.%20Entire%20Class%20Diagram.PNG)
 
@@ -14,10 +28,10 @@ This assignment involed both theoretical and coding challenges, both of which ar
 
 ![fifth-A](readme-pictures/Task%204A%20-%20Abstract%20Factory%20Design%20Pattern/5.%20Classes.PNG)
 
-## Task 4B - Composite Design Pattern
+## Composite Design Pattern
 
 ![first-B](readme-pictures/Task%204B%20-%20Composite%20Design%20Pattern/1.%20Class%20Diagram.PNG)
 
-## Task 4C - Strategy Design Pattern
+## Strategy Design Pattern
 
 ![first-C](readme-pictures/Task%204C%20-%20Strategy%20Design%20Pattern/1.%20Class%20Diagram.PNG)

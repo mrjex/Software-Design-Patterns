@@ -4,11 +4,12 @@
 ![UML](https://img.shields.io/badge/UML-5C2D91?style=for-the-badge&logo=uml&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-007396?style=for-the-badge&logo=java&logoColor=white)
 
+> Developed during March - May 2023 by [Mehmet Asim](https://github.com/Indomet), [Joel Mattsson](https://github.com/mrjex), [Mohamad Khalil](https://github.com/Chef03), [Ali Mousa](https://github.com/AliMousa27), [Zepei Zhao](https://github.com/Zepeiz), and Jackson Niyomugabo.
+
+
 ## Overview
 
 This project explores software design patterns implementation with a focus on **Abstract Factory**, **Composite**, and **Strategy** patterns. It demonstrates how these patterns can be used to create flexible, maintainable software architectures through behavior modeling and object-oriented design principles.
-
-> Developed during March - May 2023 by [Mehmet Asim](https://github.com/Indomet), [Joel Mattsson](https://github.com/mrjex), [Mohamad Khalil](https://github.com/Chef03), [Ali Mousa](https://github.com/AliMousa27), [Zepei Zhao](https://github.com/Zepeiz), and Jackson Niyomugabo.
 
 
 ## Abstract Factory Design Pattern

@@ -1,0 +1,6 @@
+com/group10/searcher/Client.class
+com/group10/searcher/Context.class
+com/group10/searcher/Strategies/API.class
+com/group10/searcher/Strategies/Strategy.class
+com/group10/searcher/Strategies/Bruteforce.class
+com/group10/searcher/Strategies/ShiftOr.class

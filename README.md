@@ -5,11 +5,11 @@ This assignment involed both theoretical and coding challenges, both of which ar
 
 - Developed by
 
-- [Asim X]()
-- [Joel Mattsson]()
-- [Mohamad Khalil]()
-- [Ali Mousa]()
-- [Zepei Zhao]()
+- [Mehmet Asim](https://github.com/Indomet)
+- [Joel Mattsson](https://github.com/mrjex)
+- [Mohamad Khalil](https://github.com/Chef03)
+- [Ali Mousa](https://github.com/AliMousa27)
+- [Zepei Zhao](https://github.com/Zepeiz)
 - Jackson Niyomugabo
 
 - In 2023 March - May
